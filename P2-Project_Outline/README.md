@@ -17,7 +17,7 @@ Anonymous app usage, track investments using fake money using real market info w
 Planned Expansion/Tier 2: 
 Input a twitter feed, discord channel, reddit thread, or other suggested social media that can scrape an active page continuously to simulate a large number of trades and potentially create a massive mess of a portfolio quickly.
 
-It's all fake money so I imagine this is all fine with fake money.. lots of the premium options and algo data alert service on twitter and discord (to me) are walking the line of unlicensed financial advice but I know *very little* about it..
+so I imagine this is all fine with fake money.. lots of the premium options and algo data alert service on twitter and discord (to me) are walking the line of unlicensed financial advice but I know *very little* about it..
 
 ### Technologies
 c# +
